@@ -1,4 +1,4 @@
-# Twitter Data Processing Tool with AWS Cloud Computing
+# Twitter Data Processing Tool with AWS Cloud Computing 
 
 * SimplifiedTweet: Here we make the object constructor using the 6 features described in the assignment, and also the method Optional<SimplifiedTweet> which takes a String as an input,
 and converts it to a JSON Object, consisting of the 6 basic features initialized to 0 or null. We check that the input string contains all these basic features and otherwise we return
